@@ -5,7 +5,7 @@
     <groupId>it.overzoom</groupId>
     <artifactId>posteway</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -17,7 +17,7 @@
         <connection>scm:git:https://github.com/stasbranger/posteway-java-sdk.git</connection>
         <developerConnection>scm:git:https://github.com/stasbranger/posteway-java-sdk.git</developerConnection>
         <url>https://github.com/stasbranger/posteway-java-sdk</url>
-        <tag>HEAD</tag>
+        <tag>posteway-1.0.0</tag>
     </scm>
 
     <dependencies>

@@ -5,7 +5,7 @@
     <groupId>it.overzoom</groupId>
     <artifactId>posteway</artifactId>
     <!--<packaging>jar</packaging>-->
-    <version>1.0.8</version>
+    <version>1.0.9-SNAPSHOT</version>
     <name>PosteWay</name>
 
     <!-- License for the project, pick a License from opensource.org -->
@@ -39,7 +39,7 @@
         <connection>scm:git:git@github.com:stasbranger/posteway-java-sdk.git</connection>
         <developerConnection>scm:git:git@github.com:stasbranger/posteway-java-sdk.git</developerConnection>
         <url>https://github.com/stasbranger/posteway-java-sdk</url>
-      <tag>posteway-1.0.8</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <!-- We are deploying to Sonatype, so enter Sonatype Distribution Stuff Here -->

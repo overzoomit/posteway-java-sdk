@@ -5,7 +5,7 @@
     <groupId>it.overzoom</groupId>
     <artifactId>posteway</artifactId>
     <!--<packaging>jar</packaging>-->
-    <version>1.0.5</version>
+    <version>1.0.6-SNAPSHOT</version>
 
     <!-- License for the project, pick a License from opensource.org -->
     <licenses>

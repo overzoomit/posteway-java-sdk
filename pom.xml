@@ -5,7 +5,7 @@
     <groupId>it.overzoom</groupId>
     <artifactId>posteway</artifactId>
     <!--<packaging>jar</packaging>-->
-    <version>1.0.5</version>
+    <version>1.0.5-SNAPSHOT</version>
 
     <!-- License for the project, pick a License from opensource.org -->
     <licenses>
@@ -19,12 +19,12 @@
     <!-- Contact for developers on project -->
     <developers>
         <developer>
-            <name>FlavioTroja</name>
+            <name>Flavio Troia</name>
             <email>flavio.troia@overzoom.it</email>
             <!-- Your organization, or Github is fine too -->
             <organization>Overzoom</organization>
             <!-- URL for Organization, URL to your github profile work well here -->
-            <organizationUrl>https://github.com/FlavioTroja</organizationUrl>
+            <organizationUrl>https://overzoom.it/</organizationUrl>
         </developer>
     </developers>
 

@@ -7,7 +7,8 @@
     <!--<packaging>jar</packaging>-->
     <version>1.0.9-SNAPSHOT</version>
     <name>PosteWay</name>
-
+    <description>Using PosteWay as a module</description>
+    <url>https://github.com/stasbranger/posteway-java-sdk</url>
     <!-- License for the project, pick a License from opensource.org -->
     <licenses>
         <license>

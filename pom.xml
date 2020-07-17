@@ -38,7 +38,6 @@
         <connection>scm:git:git://github.com/stasbranger/posteway-java-sdk.git</connection>
         <developerConnection>scm:git:git@github.com:stasbranger/posteway-java-sdk.git</developerConnection>
         <url>https://github.com/stasbranger/posteway-java-sdk</url>
-        <tag>posteway-1.0.5</tag>
     </scm>
 
     <!-- We are deploying to Sonatype, so enter Sonatype Distribution Stuff Here -->

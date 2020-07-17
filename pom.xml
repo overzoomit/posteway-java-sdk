@@ -5,7 +5,7 @@
     <groupId>it.overzoom</groupId>
     <artifactId>posteway</artifactId>
     <!--<packaging>jar</packaging>-->
-    <version>1.0.5</version>
+    <version>1.0.5-SNAPSHOT</version>
 
     <!-- License for the project, pick a License from opensource.org -->
     <licenses>
@@ -19,10 +19,10 @@
     <!-- Contact for developers on project -->
     <developers>
         <developer>
-            <name>Flavio Troia</name>
+            <name>FlavioTroja</name>
             <email>flavio.troia@overzoom.it</email>
             <!-- Your organization, or Github is fine too -->
-            <organization>Github</organization>
+            <organization>Overzoom</organization>
             <!-- URL for Organization, URL to your github profile work well here -->
             <organizationUrl>https://github.com/FlavioTroja</organizationUrl>
         </developer>
@@ -36,7 +36,7 @@
 
     <scm>
         <connection>scm:git:https://github.com/stasbranger/posteway-java-sdk.git</connection>
-        <developerConnection>scm:git:https://github.com/stasbranger/posteway-java-sdk.git</developerConnection>
+        <developerConnection>scm:git:ssh://github.com/stasbranger/posteway-java-sdk.git</developerConnection>
         <url>https://github.com/stasbranger/posteway-java-sdk</url>
         <tag>posteway-1.0.5</tag>
     </scm>

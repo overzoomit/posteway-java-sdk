@@ -36,7 +36,7 @@
 
     <scm>
         <connection>scm:git:git://github.com/stasbranger/posteway-java-sdk.git</connection>
-        <developerConnection>scm:git:git@github.com:stasbranger/stasbranger.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:stasbranger/posteway-java-sdk.git</developerConnection>
         <url>https://github.com/stasbranger/posteway-java-sdk</url>
         <tag>posteway-1.0.5</tag>
     </scm>
